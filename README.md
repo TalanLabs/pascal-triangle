@@ -1,14 +1,12 @@
 # Pascal's Triangle
 
-Welcome to Pascal's Triangle on Exercism's Rust Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
-Compute Pascal's triangle up to a given number of rows.
+Générer le triangle de Pascal pour un nombre donné de lignes.
 
-In Pascal's Triangle each number is computed by adding the numbers to
-the right and left of the current position in the previous row.
+Dans un triangle de Pascal, chaque nombre est calculé en ajoutant les nombres à
+à droite et à gauche de la position actuelle dans la ligne précédente.
 
 ```text
     1
